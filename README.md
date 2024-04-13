@@ -1,4 +1,4 @@
-![4ethical](https://github.com/deepikasrinivasans/Enumeration/assets/119393935/ed6fe182-79a7-4baf-bd59-aa3cf8047d9f)# EX 03 Enumeration
+# EX 03 Enumeration
 Enumeration Techniques
 
 # Explore Google hacking and enumeration 
