@@ -53,19 +53,16 @@ This operator allows you to search for pages that contain specific text within t
 
 ## link: 
 This operator allows you to search for pages that link to a specific URL. For example, "link:example.com" would search for pages that link to the example.com domain.
-
-![6ethical](https://github.com/deepikasrinivasans/Enumeration/assets/119393935/d59ecd11-c990-432b-8a13-526fcad94464)
-
+![7ethical](https://github.com/deepikasrinivasans/Enumeration/assets/119393935/d91fcd8a-dd37-4cfa-aa4f-e71f58e7483e)
 
 ## cache: 
 This operator allows you to view the cached version of a page. For example, "cache:example.com" would show the cached version of the example.com website.
 
 
-![7ethical](https://github.com/deepikasrinivasans/Enumeration/assets/119393935/d91fcd8a-dd37-4cfa-aa4f-e71f58e7483e)
-
-## DNS Recon
 ![8ethical](https://github.com/deepikasrinivasans/Enumeration/assets/119393935/41423be6-3531-49e8-8653-a53e967afb3e)
 
+## DNS Recon
+![9ethical](https://github.com/deepikasrinivasans/Enumeration/assets/119393935/7c1c1205-f693-49ad-8597-00a2e9881b32)
 provides the ability to perform:
 Check all NS records for zone transfers
 Enumerate general DNS records for a given domain (MX, SOA, NS, A, AAAA, SPF , TXT)
@@ -73,8 +70,8 @@ Perform common SRV Record Enumeration
 Top level domain expansion
 
 ## dnsenum
-![9ethical](https://github.com/deepikasrinivasans/Enumeration/assets/119393935/7c1c1205-f693-49ad-8597-00a2e9881b32)
 ![10ethical](https://github.com/deepikasrinivasans/Enumeration/assets/119393935/0f878d3f-c14e-4ece-a67e-4992517789fb)
+![12ethical](https://github.com/deepikasrinivasans/Enumeration/assets/119393935/d68554b8-2bd5-4475-ab37-c17ba521d4c7)
 
 Dnsenum is a multithreaded perl script to enumerate DNS information of a domain and to discover non-contiguous ip blocks. The main purpose of Dnsenum is to gather as much information as possible about a domain. The program currently performs the following operations:
 
@@ -91,8 +88,7 @@ This program is useful for pentesters, ethical hackers and forensics experts. It
 
 
 ## smtp-user-enum
-![12ethical](https://github.com/deepikasrinivasans/Enumeration/assets/119393935/d68554b8-2bd5-4475-ab37-c17ba521d4c7)
-
+![13ethical](https://github.com/deepikasrinivasans/Enumeration/assets/119393935/9e28e1c0-c9cd-437c-b7aa-5d146ebe5405)
 Username guessing tool primarily for use against the default Solaris SMTP service. Can use either EXPN, VRFY or RCPT TO.
 In metasploit list all the usernames using head /etc/passwd or cat /etc/passwd:
 select any username in the first column of the above file and check the same
@@ -100,13 +96,11 @@ select any username in the first column of the above file and check the same
 Telnet allows to connect to remote host based on the port no. For smtp port no is 25
 telnet <host address> 25 to connect
 and issue appropriate commands
-![13ethical](https://github.com/deepikasrinivasans/Enumeration/assets/119393935/9e28e1c0-c9cd-437c-b7aa-5d146ebe5405)
 
 ## nmap –script smtp-enum-users.nse <hostname>
 
 The smtp-enum-users.nse script attempts to enumerate the users on a SMTP server by issuing the VRFY, EXPN or RCPT TO commands. The goal of this script is to discover all the user accounts in the remote system.
-
-
+![14ethical](https://github.com/deepikasrinivasans/Enumeration/assets/119393935/faf5a4ae-a1de-4e36-aa9a-37c968aecbd6)
 ## RESULT:
 The Google hacking keywords and enumeration tools were identified and executed successfully
 
